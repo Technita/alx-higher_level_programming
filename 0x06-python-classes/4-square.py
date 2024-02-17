@@ -28,8 +28,3 @@ class Square:
     def area(self):
         """Return the current area of the square."""
         return (self.__size * self.__size)
-
-vi 5-square
-#!/usr/bin/python3
-"""Define a class Square."""
-
